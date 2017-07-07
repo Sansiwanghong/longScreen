@@ -4,7 +4,6 @@
 InputDlg::InputDlg(QWidget *parent) : QDialog(parent)
 {
       setWindowTitle("输入文本");
-      setWindowIcon();
 
      inputLayout=new QGridLayout(this);
 

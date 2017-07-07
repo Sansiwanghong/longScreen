@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Widget</string>
+   <string>SansiLED</string>
   </property>
   <property name="windowIcon">
    <iconset>
@@ -266,6 +266,10 @@
      <property name="text">
       <string>添加文字</string>
      </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>button.jpg</normaloff>button.jpg</iconset>
+     </property>
     </widget>
    </widget>
    <widget class="QWidget" name="tab_2">
@@ -368,6 +372,10 @@
      <property name="text">
       <string>添加文件</string>
      </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>button.jpg</normaloff>button.jpg</iconset>
+     </property>
     </widget>
     <widget class="QTextEdit" name="textEdit_2">
      <property name="geometry">
@@ -390,6 +398,10 @@
      </property>
      <property name="text">
       <string>添加文字</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>button.jpg</normaloff>button.jpg</iconset>
      </property>
     </widget>
     <widget class="QLabel" name="label_12">
